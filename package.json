@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wendellvieira/videomaker/issues"
   },
-  "homepage": "https://github.com/wendellvieira/videomaker#readme"
+  "homepage": "https://github.com/wendellvieira/videomaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
